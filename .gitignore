@@ -62,8 +62,7 @@ modules.builtin
 include/config
 include/generated
 arch/*/include/generated
-scripts/kconfig/zconf.*
-scripts/kconfig/conf
+scripts/kconfig/*
 
 # stgit generated dirs
 patches-*
